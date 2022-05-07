@@ -1,0 +1,6 @@
+
+;Nguyen Tai Nguyen;16 7 2003;10 10 10
+;Pham Quang Dung;2 8 2003;8 9 10
+;Nguyen Trong Quy;2 3 2003;7 8 9
+;Nguyen Dinh Quy;21 5 2003;9 9 9
+;Vo Duy Khai;16 8 2003;10 1 10
